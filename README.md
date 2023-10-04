@@ -1,6 +1,6 @@
 currency-exchanger
 ==================
 
-A simple currency exchanger euro &lt;-> pounds to illustrate some characteristics of Git 
+A simple currency exchanger euro &lt;-> pounds to illustrate some characteristics of Git
 
-test test
+<br><br>
